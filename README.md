@@ -1,2 +1,2 @@
-# ElysiaPS
-a ps for a certain anime game
+# MikoshiPS
+blatant advertisement 101
